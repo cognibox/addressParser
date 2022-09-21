@@ -9,4 +9,4 @@ Please note that building the image the first time can take a long time, don't w
 
 To see the command line tool help use the following:
 
-> docker run --rm -it -v $&#x7b;pwd&#x7d;:/home/script/data $(docker build -t addp -q https://github.com/iguzu/addressParser.git) -h
+> docker run --rm -it -v $&#x7b;pwd&#x7d;:/home/script/data $(docker build -t addp -q https://github.com/cognibox/addressParser.git) -h
